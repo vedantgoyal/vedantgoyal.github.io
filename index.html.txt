@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Vedant Goyal</h1>
-<p>LinkedIn: <a>https://in.linkedin.com/in/vedant-goyal-14288095</a></p>
-</body>
-</html>
